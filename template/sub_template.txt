@@ -1,0 +1,9 @@
+从对话历史中抽取Human的需求:
+
+{instruct}
+
+## 对话历史
+=====
+{dialog_history}
+=====
+Human的需求是:
